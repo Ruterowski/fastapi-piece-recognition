@@ -1,0 +1,8 @@
+# Test your FastAPI endpoints
+POST http://127.0.0.1:8000/recognition
+
+###
+
+POST http://127.0.0.1:8000/echo-imgae
+
+###
